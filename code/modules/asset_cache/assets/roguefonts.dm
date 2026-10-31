@@ -18,6 +18,7 @@
 		"elf.ttf" = 'interface/fonts/languages/elf.ttf',
 		"hell.ttf" = 'interface/fonts/languages/hell.ttf',
 		"orc.ttf" = 'interface/fonts/languages/orc.ttf',
+		"chronometra.ttf" = 'interface/fonts/languages/chronometra.ttf',
 		"celestial.ttf" = 'interface/fonts/languages/celestial.ttf',
 		"raneshi.ttf" = 'interface/fonts/languages/raneshi.ttf',
 		"undead.ttf" = 'interface/fonts/languages/undead.ttf',

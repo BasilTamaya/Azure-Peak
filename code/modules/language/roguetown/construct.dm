@@ -5,7 +5,7 @@
 	ask_verb = "rattles"
 	exclaim_verb = "cracks"
 	key = "m"
-	spans = list(SPAN_CONSTRUCT)
+	spans = list(SPAN_CHRONOMETRA)
 	space_chance = 6
 	default_priority = 100
 	icon_state = "construct"
