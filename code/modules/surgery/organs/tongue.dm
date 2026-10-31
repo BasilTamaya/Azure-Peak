@@ -14,6 +14,7 @@
 		/datum/language/common,
 		/datum/language/dwarvish,
 		/datum/language/elvish,
+		/datum/language/chronometra,
 		/datum/language/celestial,
 		/datum/language/raneshi,
 		/datum/language/hellspeak,

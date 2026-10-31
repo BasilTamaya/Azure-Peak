@@ -1,7 +1,9 @@
 /datum/species/construct
 	name = "Constructb"
 	id = "construct"
-
+	languages = list(
+		/datum/language/chronometra,
+	)
 /datum/species/construct/qualifies_for_rank(rank, list/features)
 	return TRUE
 
